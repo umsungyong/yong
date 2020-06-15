@@ -1,7 +1,6 @@
 package sung;
 
-public class Test {
-	rerererttltltltlt
+public class Test{
 	
 	
  }
