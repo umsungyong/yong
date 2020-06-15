@@ -1,13 +1,8 @@
 package sung;
 
 public class Test{
-    public static void main(String[] args) {
-    	
-    	안녕
-    }
-    
-    
-    
-       
-    
+    public static void main(String[] args, Object ㅗㅗㅗㅗㅗㅗㅗㅗㅗ) {
+               ㅗㅗㅗㅗㅗㅗㅗㅗㅗ
+            //ㅋㅋ	
+     }
  }
